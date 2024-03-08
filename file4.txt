@@ -1,1 +1,0 @@
-hello guys , we are try to use git to delete file
